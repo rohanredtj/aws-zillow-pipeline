@@ -91,4 +91,4 @@ The processor is deployed as an AWS Lambda function:
 
 ## Contact
 
-For any questions or suggestions, please open an issue or contact [Your Name] at [rohan.rathore93@example.com].
+For any questions or suggestions, please open an issue or contact at rohan.rathore93@example.com
